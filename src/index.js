@@ -4,10 +4,13 @@ import './index.css';
 import App from './App';
 import Calculator from "./class1/calculator";
 import Pusher from "./class1/pusher";
+import Test from "./class2/async";
+import Fresh from "./class3/fresh";
+
 
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Pusher />, document.getElementById('root'));
+ReactDOM.render(<Fresh />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
