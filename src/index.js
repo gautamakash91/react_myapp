@@ -5,8 +5,9 @@ import App from './App';
 import Calculator from "./class1/calculator";
 import Pusher from "./class1/pusher";
 import Test from "./class2/async";
-import Fresh from "./class3/fresh";
-
+import Fresh from "./class3/fresh2";
+import Fetcher from "./class4/fetcher";
+import MyRouter from "./route/router";
 
 import * as serviceWorker from './serviceWorker';
 
